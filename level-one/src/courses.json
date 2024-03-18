@@ -1,0 +1,62 @@
+[
+  { "name": "React Fundamentals", "price": 99, "provider": "CodeAcademy" },
+  { "name": "Advanced React", "price": 199, "provider": "Udemy" },
+  { "name": "React for Beginners", "price": 80, "provider": "Coursera" },
+  { "name": "Mastering React", "price": 150, "provider": "Pluralsight" },
+  { "name": "React Native Basics", "price": 120, "provider": "edX" },
+  { "name": "React and Redux", "price": 130, "provider": "LinkedIn Learning" },
+  {
+    "name": "React Hooks in Depth",
+    "price": 100,
+    "provider": "Frontend Masters"
+  },
+  { "name": "React Testing with Jest", "price": 110, "provider": "Treehouse" },
+  {
+    "name": "Fullstack React with GraphQL",
+    "price": 175,
+    "provider": "Skillshare"
+  },
+  {
+    "name": "React Performance Optimization",
+    "price": 145,
+    "provider": "Codecademy"
+  },
+  {
+    "name": "React Router: Power Up Your Application",
+    "price": 90,
+    "provider": "Udemy"
+  },
+  { "name": "React State Management", "price": 105, "provider": "Coursera" },
+  {
+    "name": "Build Web Apps with React & Firebase",
+    "price": 155,
+    "provider": "Pluralsight"
+  },
+  {
+    "name": "React Context for State Management",
+    "price": 95,
+    "provider": "edX"
+  },
+  {
+    "name": "Server-Side Rendering with React",
+    "price": 180,
+    "provider": "LinkedIn Learning"
+  },
+  {
+    "name": "React UI Component Design",
+    "price": 75,
+    "provider": "Frontend Masters"
+  },
+  {
+    "name": "Building Reusable React Components",
+    "price": 85,
+    "provider": "Treehouse"
+  },
+  {
+    "name": "Introduction to React v16.8+",
+    "price": 70,
+    "provider": "Skillshare"
+  },
+  { "name": "React Security", "price": 160, "provider": "Codecademy" },
+  { "name": "React for Web Designers", "price": 65, "provider": "Udemy" }
+]
